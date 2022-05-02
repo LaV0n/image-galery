@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(127, 197, 255, 0.151);
+}
+header {
+    background: rgb(255, 208, 1);
+    top: 0;
+    left: 0;
+    border-bottom: 5px solid black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(237, 250, 242);
+}
+footer{
+    
+    background: rgb(255, 208, 1);
+    bottom: 0;
+    left: 0;
+    border-top: 5px solid black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    }
